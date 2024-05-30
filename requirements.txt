@@ -1,0 +1,9 @@
+functions-framework==3.*
+google-cloud-logging==3.5.0
+google-generativeai
+google-cloud-storage
+pillow
+google-cloud-bigquery
+langchain_core
+langchain
+langchain_google_genai
